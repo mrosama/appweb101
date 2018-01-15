@@ -1,1 +1,11 @@
-<h1>welcome</h1>
+<?php
+
+
+$x = true ;
+
+if($x == true){
+echo "ok...";
+}
+else {
+    echo "Error...";
+}

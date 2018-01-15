@@ -10,3 +10,13 @@ nav {
 table {
 display:none;
 }
+
+
+.fontdiv{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+.div {
+    color:red;
+}
