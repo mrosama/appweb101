@@ -2,6 +2,11 @@
     color:#ccc;
 }
 
+
 nav {
     height:15px;
+}
+
+table {
+display:none;
 }
